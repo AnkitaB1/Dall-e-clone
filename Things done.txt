@@ -1,0 +1,5 @@
+local storage -> refresh icon -> function -> + sign -. triggers npm run start
+
+const name = request.query.get('name') || await request.text() || 'world';
+
+Deleted fetchSuggestion from lib inside azure and it deleted the entire folder or something. Need to fix this. 
