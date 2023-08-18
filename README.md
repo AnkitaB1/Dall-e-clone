@@ -18,7 +18,17 @@ The project utilizes a stack of modern technologies:
 - [OpenAI](https://beta.openai.com/): OpenAI's powerful API for accessing AI models, enabling tasks such as text generation and image synthesis.
 - [React Hot Toast](https://react-hot-toast.com/): A toast notification library that provides user-friendly feedback for various actions.
 
+## Screenshots
 
+Here are some screenshots showcasing the AI Image Generator's features:
+
+<img width="889" alt="AI Image generator snapshots" src="https://github.com/AnkitaB1/Dall-e-clone/assets/115634194/2fd37478-ca6c-4218-997a-faf82219b3e6">
+
+*Caption for Screenshot 1.*
+
+<img width="828" alt="AI Image Creator" src="https://github.com/AnkitaB1/Dall-e-clone/assets/115634194/d0783bca-a565-4589-b8eb-9f52573b1238">
+
+*Caption for Screenshot 2.*
 
 ## Usage
 
